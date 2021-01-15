@@ -129,9 +129,9 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   background-clip: text;
   text-fill-color: transparent;
   background-color: #fea;
-  background-image: -webkit-linear-gradient(bottom right, #ffc33cfc, #fea);
-  background-image: -o-linear-gradient(bottom right, #ffc33cfc, #fea);
-  background-image: linear-gradient(to top left, #ffc33cfc, #fea);
+  background-image: -webkit-linear-gradient(bottom right, #0f7f5bfc    , #6b8484  );
+  background-image: -o-linear-gradient(bottom right, #0f7f5bfc    , #6b8484  );
+  background-image: linear-gradient(to top left, #0f7f5bfc    , #6b8484  );
   position: relative;
 }
 
@@ -145,7 +145,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   font-family: 'Poppins', sans-serif;
   letter-spacing: 1px;
   font-weight: 600;
-  color: #fff;
+  color: #2d8269;
   border: none;
   text-transform: uppercase;
   -webkit-transition: all 0.3s ease-in-out;
@@ -254,9 +254,9 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 
 .btn-apple {
   border-width: 2px;
-  border-color: #ffc33cfc;
+  border-color: #dcb04dfc;
   border-style: solid;
-  background: linear-gradient(to right, #ffc33cfc 0%, #fea 100%);
+  background: linear-gradient(to right, #d02d2d     0%, #ce0   100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   transition: all 0.3s ease-in-out;
@@ -518,8 +518,8 @@ button:focus {
 }
 
 .menu-bg {
-  background: -webkit-linear-gradient(left, #ffc33cfc  0%, #fea 100%) !important;
-  background: linear-gradient(to right, #ffc33cfc  0%, #fea 100%) !important;
+  background: -webkit-linear-gradient(left, #0f7f5bfc      0%, #6b8484   100%) !important;
+  background: linear-gradient(to right, #0f7f5bfc      0%, #6b8484   100%) !important;
   box-shadow: 0 0 7px 1px rgba(0, 0, 0, 0.1);
   z-index: 9999;
   padding: 5px;
@@ -688,9 +688,9 @@ button:focus {
   height: 100%;
   top: 0px;
   left: 0px;
-  background-image: -moz-linear-gradient(0deg, #ffc33cfc 0%, #fea 100%);
-  background-image: -webkit-linear-gradient(0deg, #ffc33cfc 0%, #fea 100%);
-  background-image: -ms-linear-gradient(0deg, #ffc33cfc 0%, #fea 100%);
+  background-image: -moz-linear-gradient(0deg, #0f7f5bfc  0%, #6b8484  100%);
+  background-image: -webkit-linear-gradient(0deg, #0f7f5bfc  0%, #6b8484  100%);
+  background-image: -ms-linear-gradient(0deg, #0f7f5bfc  0%, #6b8484  100%);
 }
 
 .hero-area-2 .contents {
@@ -2146,9 +2146,9 @@ textarea {
 }
 
 footer .footer-Content {
-  background-image: -moz-linear-gradient(0deg, #ffc33cfc  0%, #fea 100%);
-  background-image: -webkit-linear-gradient(0deg, #ffc33cfc  0%, #fea 100%);
-  background-image: -ms-linear-gradient(0deg, #ffc33cfc  0%, #fea 100%);
+  background-image: -moz-linear-gradient(0deg, #0f7f5bfc    0%, #6b8484   100%);
+  background-image: -webkit-linear-gradient(0deg, #0f7f5bfc    0%, #6b8484   100%);
+  background-image: -ms-linear-gradient(0deg, #0f7f5bfc    0%, #6b8484   100%);
   padding: 60px 0 0px;
   color: #546E7A;
 }
